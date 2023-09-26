@@ -2,9 +2,9 @@
 
 ## Description
 
-This is a simple packet tracer, written in c for windows environment.
-It utilizes the WinSock2 technology, and uses rawsocket as the sniffer.
-By default, it will also try to send a RST flagged packet,
+This is a simple packet tracer, written in c for windows environment.<br>
+It utilizes the WinSock2 technology, and uses rawsocket as the sniffer.<br>
+By default, it will also try to send a RST flagged packet,<br>
 in order to perform some tiny DOS on the local machine.
 
 ## Getting Started
